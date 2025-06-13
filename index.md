@@ -1,6 +1,6 @@
 # Privacy Policy for TradingView Alerts Monitor
 
-**Last updated: [Current Date]**
+**Last updated: [13-06-2025]**
 
 ## Overview
 
